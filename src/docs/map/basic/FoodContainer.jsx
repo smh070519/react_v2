@@ -11,7 +11,7 @@ const FoodContainer = () => {
     ]
 
     return (
-        <Foods foods={foods} style={style}/>
+        <Foods foods={foods}/> //style={style}
     );
 };
 

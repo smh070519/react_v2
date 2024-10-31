@@ -1,5 +1,6 @@
 import './App.css';
-import FoodContainer from './docs/map/basic/FoodContainer';
+import ProductContainer from './docs/life-cycle/function/memoization/ProductContainer';
+
 
 
 
@@ -8,7 +9,7 @@ import FoodContainer from './docs/map/basic/FoodContainer';
 function App() {
   return (
     <>
-      <FoodContainer/>
+      <ProductContainer/>
     </>
   );
 }
